@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sambhavi • Eternal Echo</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdf8f2;
+      color: #333;
+    }
+    .profile-header {
+      display: flex;
+      align-items: center;
+      padding: 20px;
+      background-color: #fff1e6;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .profile-header img {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 16px;
+    }
+    .profile-name {
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .section-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin: 30px 20px;
+    }
+    .section-buttons button {
+      padding: 14px 24px;
+      margin: 10px;
+      border: none;
+      border-radius: 12px;
+      background-color: #ffd8be;
+      font-weight: 500;
+      font-size: 16px;
+      color: #5a2e0d;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: background-color 0.3s;
+    }
+    .section-buttons button:hover {
+      background-color: #ffb992;
+    }
+    .memory-preview {
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 12px;
+      margin: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .memory-preview h3 {
+      margin-top: 0;
+      color: #d87c4a;
+    }
+    .memory-preview p {
+      font-size: 15px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile-header">
+    <img src="/static/sambhavi.jpeg" alt="Sambhavi Profile Picture">
+    <div class="profile-name">Sambhavi</div>
+  </div>
+
+  <div class="section-buttons">
+    <button>Message</button>
+    <button>Call</button>
+    <button>Facetime</button>
+    <button>Photos</button>
+    <button>Videos</button>
+    <button>Voice Notes</button>
+    <button>Shared Memories</button>
+    <button>Timeline</button>
+    <button>Favorite Moments</button>
+    
+  </div>
+
+  <div class="memory-preview">
+    <h3>📷 Favorite Photo</h3>
+    <img src="/static/memory1.jpeg" alt="Memory Photo" style="width:10%; border-radius: 10px; margin-top: 8px;" />
+  </div>
+
+  <div class="memory-preview">
+    <h3>Shared Memory</h3>
+    <p>That night before the NLP exam, she was sending me module PDFs and cracking jokes even while dying inside. Classic her.</p>
+  </div>
+
+  <div class="memory-preview">
+    <h3>Sound Snippet</h3>
+    <p><i>“Jaldi karna bro... warna fir se project load karna padega 😒”</i> - in her voice</p>
+  </div>
+</body>
+</html>

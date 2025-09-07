@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Eternal Echo</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="chat-header">
+    <img src="/static/sambhavi.jpeg" alt="Avatar" class="profile-pic">
+    <div class="profile-name">Sambhavi</div>
+  </div>
+
+  <div class="chat-box" id="chat-box"></div>
+
+  <div class="input-section">
+    <form id="chat-form">
+      <input type="text" id="user-input" placeholder="Hey, it’s been a while." autocomplete="off" />
+      <button type="submit" class="send-btn">➤</button>
+    </form>
+    <div class="feature-row">
+      <button class="feature-button">Text</button>
+      <button class="feature-button">Voice Input</button>
+      <button class="feature-button">Photo Memories</button>
+    </div>
+  </div>
+
+  <script>
+    const chatBox = document.getElementById("chat-box");
+    const chatForm = document.getElementById("chat-form");
+    const userInput = document.getElementById("user-input");
+
+    chatForm.onsubmit = async (e) => {
+      e.preventDefault();
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      const userMsg = document.createElement("div");
+      userMsg.className = "msg user";
+      userMsg.textContent = message;
+      chatBox.appendChild(userMsg);
+      userInput.value = "";
+
+      const res = await fetch("/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message })
+      });
+
+      const data = await res.json();
+
+      const aiMsg = document.createElement("div");
+      aiMsg.className = "msg ai";
+      aiMsg.innerHTML = `<div class="bubble">${data.reply}</div>`;
+      chatBox.appendChild(aiMsg);
+
+      chatBox.scrollTop = chatBox.scrollHeight;
+    };
+  </script>
+</body>
+</html>

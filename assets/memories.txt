@@ -1,0 +1,104 @@
+Falisha: Part 1 of this mod was not taking so 1st 8 you generate from 9.
+Sambhavi Uni: Module 1 and 2 kal karungi.
+Sambhavi Uni: This and browser is still running.
+Sambhavi Uni: Loading.
+Sambhavi Uni: Do I need to remove framer motion from there?
+Falisha: It's some frontend issue because the next.js server is running but not rendering in frontend.
+Falisha: Go to the browser console and see if you're getting any errors or something.
+Sambhavi Uni: What now, should I close it?
+Falisha: npm uninstall framer-motion.
+Sambhavi Uni: Everything is still the same.
+Falisha: In terminal. First stop the server then paste this.
+Sambhavi Uni: Stop sending reels nothing is happening now.
+Falisha: 🤣🤣 was waiting for your reply only kid.
+Falisha: You uninstalled right? After pressing Ctrl+C, you pasted that right?
+Sambhavi Uni: Yeah, then ran it using dev and still browser is loading.
+Falisha: Try clearing the cache or doing a hard reload (Ctrl + F5).
+Sambhavi Uni: Did.
+Falisha: Bro once again stop the server and type: npm install.
+Falisha: It'll download all the pending dependencies.
+Sambhavi Uni: Still not.
+Sambhavi Uni: Bro I’m feeling our marks are gone.
+Falisha: Aee shut up bro. If not, again we’ll load her project and do that’s it. Life’s easy kid.
+Falisha: Soujanya's only bro. But we’ll do it from scratch like how you did now.
+Sambhavi Uni: I’m tired 🥹
+Falisha: Ok sammy chillax, go to bed, charge your phone. We’ll do this tomorrow in college. Good night love. Take care.
+Sambhavi Uni: Should I delete everything and start again? College internet sucks.
+Falisha: Sweet dreams. Yeah that’ll be good.
+Sambhavi Uni: Fallu I read the 9th episode...
+Falisha: 🥵😂😂🙀🤭 Send. Ask that other guy how peri got.
+Sambhavi Uni: Wait I’m opening laptop. I can’t copy in this phone.
+Falisha: Okok.
+Sambhavi Uni: Viraj or Subhan?
+Falisha: Who do you think would’ve told him? I guess also.
+Sambhavi Uni: Yeah I guess so. Let me ask him.
+Sambhavi Uni: You want last episode?
+Falisha: Yessssssss. This one was fun.
+Falisha: What did he say?
+Sambhavi Uni: He only said to him. I’m asking whether he told Miss P also or not?
+Falisha: Dumb he is.
+Sambhavi Uni: It seems peri was there when he was reading this.
+Falisha: Nice love.
+Sambhavi Uni: This is really fun.
+Falisha: LET'S SEE.
+Sambhavi Uni: I chose money and you chose yourself 😂😂
+Sambhavi Uni: Classic Falisha 😂
+Falisha: Classic us 😂😂
+Sambhavi Uni: Anyway I saved it in notepad.
+Falisha: Send the last ep.
+Sambhavi Uni: I have done but it’s giving very small answers.
+Falisha: Ok if mine gets uploaded I’ll send up to 8.
+Sambhavi Uni: But later I need to remember too na. So many times we’ve heard development and deployment that it's too much.
+Falisha: Skip Ismail’s codes. Tomorrow look up diagrams on Google and draw them. It’ll look more attractive.
+Sambhavi Uni: Okay fine then.
+Sambhavi Uni: Bro, module 3 ke baaki wale bhej de agar hain toh.
+Falisha: Haan ruk.
+Sambhavi Uni: Bhej de behen...
+Falisha: Nahin ho raha aur generate.
+Sambhavi Uni: Arre mera wala ek line ke answers de raha hai.
+Falisha: Wanna wait half an hour, I’ll send.
+Sambhavi Uni: Okay nahi toh kal subah karungi.
+Falisha: Okok I’m also waiting, if limit doesn’t end I’ll do in the morning.
+Falisha: Bro till then generate those codes from your GPT and send to core 4. 5th will put it in codepad.
+Sambhavi Uni: Okay.
+Falisha: Bro, send that zip file of old NLP question papers please.
+Sambhavi Uni: Mera wala download nahi ho raha.
+Falisha: Same.
+Sambhavi Uni: Laptop and phone both not working.
+Falisha: Let’s ask someone or leave it.
+Falisha: How much done?
+Sambhavi Uni: 3rd and 4th theory left, and all lab sheets.
+Falisha: Nycc.
+Falisha: Bro solve that Viterbi problem and send please.
+Falisha: For that “watch the race” sentence or another?
+Sambhavi Uni: I tried but I’m getting a different answer.
+Sambhavi Uni: I’ll ask peri once, otherwise I’ll send after reaching home.
+Falisha: Theek hai bhej de. Where are you roaming? With Mr. Handsome, doctor? 🤣
+Sambhavi Uni: Nahin yaar. Mr. Handsome ne jo medicine likhi hai wahi lene jaa rahi hoon.
+Sambhavi Uni: Aise medicine likhi jo na CH, na SMC, na Apollo mein mil rahi hai 🥲
+Sambhavi Uni: Bahut kharab traffic hai yaar.
+Falisha: Online order karlo.
+Falisha: On 1mg.
+Sambhavi Uni: Ab wahi karenge. Free mein lene ke chakkar mein traffic mein phas gaye 😂
+Falisha: 😂 kk
+Sambhavi Uni: Himesh Reshammiya brooo 😂😂
+Sambhavi Uni: Tera tera tera suroorrrr 😂😂
+Falisha: Bahut rangeen nikla yeh 😂
+Sambhavi Uni: Does he even know the meaning or just says it? 😂
+Falisha: He knows. Adds spice to studies deliberately.
+Sambhavi Uni: Spice dalta toh tandoori nights daal deta 😁
+Sambhavi Uni: Chal bye, ab theory khatam karna hai.
+Falisha: Haan bye.
+Sambhavi Uni: Yeh sahi module hai na?
+Sambhavi Uni: Module 1 aur 2 bhej de agar hai toh.
+Falisha: Abhi bhi chahiye?
+Sambhavi Uni: Chhod de, Viraj ne bhej diya.
+Falisha: Bhai itne lab sheets kaise yaad rakhun 😭
+Sambhavi Uni: ChatGPT se puch code ko brief kare.
+Falisha: Same, I only did HMM one so far. Need to practice again. Mod 1, 2, and half of 4 left.
+Sambhavi Uni: Module 4 mostly theory, easy. Just watch Bleu score recording.
+Falisha: Haan ok.
+Falisha: Bro sentiment problems samaj nahi aaye.
+Sambhavi Uni: Kaun se? Module 4?
+Falisha: Nahin, 2 ka aur 4 ka bhi.
+Sambhavi Uni: Ruk ja. Main abhi recording dekh rahi hoon, last one left. Then I’ll try.

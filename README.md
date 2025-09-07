@@ -1,1 +1,2 @@
 Eternal Echo is an AI companion designed to help people reconnect with the memories of their lost loved ones. By training on their digital footprints :texts, notes,  and pictures ,it enables realistic, memory-based conversations. The goal is not to replace, but to preserve and reflect their essence, providing emotional comfort, closure, and healing.
+uses Ollama which  runs local LLMs ( Mistral) for private, offline AI conversations
